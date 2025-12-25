@@ -105,4 +105,5 @@ MIT License - See [LICENSE](./LICENSE) for details.
 
 ## Credits
 
-Based on [gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover) by journey-ad.
+- Based on [gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover) by journey-ad
+- Algorithm reference: [GeminiWatermarkTool](https://github.com/allenk/GeminiWatermarkTool) by allenk

@@ -104,4 +104,5 @@ MIT License
 
 ## 致谢
 
-基于 [gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover) by journey-ad
+- 基于 [gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover) by journey-ad
+- 算法参考：[GeminiWatermarkTool](https://github.com/allenk/GeminiWatermarkTool) by allenk
