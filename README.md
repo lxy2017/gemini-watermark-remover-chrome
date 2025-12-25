@@ -4,6 +4,10 @@
 
 A Chrome extension that automatically removes watermarks from Gemini AI generated images when downloading.
 
+<p align="center">
+  <img src="docs/Gemini_Generated_Image_vvtju3vvtju3vvtj.png" width="600">
+</p>
+
 ## Features
 
 - 🚀 **Automatic Processing** - Watermarks are removed automatically when you download images

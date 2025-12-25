@@ -4,6 +4,10 @@
 
 自动去除 Gemini AI 生成图片水印的 Chrome 扩展。
 
+<p align="center">
+  <img src="docs/Gemini_Generated_Image_vvtju3vvtju3vvtj.png" width="600">
+</p>
+
 ## 功能特点
 
 - 🚀 **自动处理** - 下载图片时自动去除水印
